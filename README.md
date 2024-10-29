@@ -1,23 +1,14 @@
 # Online-Banking-System
-Description
+**Description**
 A Java application for conducting online elections for Mechatronics Engineering departmental leaders at FUTO (2022/2023).
 
-Features
+**Features**
 Voter registration
 Unique key generation
 Secure voting process
 Input validation
-Installation
-Clone the repository:
-bash
-Copy code
-git clone <your-repo-URL>
-Navigate to the project directory:
-bash
-Copy code
-cd <your-project-folder>
-Compile and run the Java files.
-Usage
+
+**Usage**
 Run the Main class to start the application.
 Follow the prompts to register and vote.
 
