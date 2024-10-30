@@ -1,4 +1,4 @@
-# Online-Banking-System
+# Online-Voting-System
 **Description**
 A Java application for conducting online elections for Mechatronics Engineering departmental leaders at FUTO (2022/2023).
 
